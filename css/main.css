@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.oneDiv{
+    width: 500px;
+    width: 300px;
+    color: red;
+    text-align: justify;
+    border-radius: 50px;
+    padding: 20px;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    text-align: center;
+    vertical-align: baseline;
+    margin-top: 50px;
+}
+.oneP{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.twoP{
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 7px;
+}
+.threeP{
+    text-transform: capitalize;
+}
+.fourP{
+    text-indent: 100px;
+    letter-spacing: 10px;
+    line-height: 1.3;
+    word-spacing: 30px;
+}
+.fiveP{
+    color: white;
+    text-shadow: 1px 1px 2px blue;
+}
